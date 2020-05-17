@@ -5,4 +5,3 @@ print('运行请按ctrl-shift-F10.')
 print('welcome to github..')
 print('Hello world')
 print('what\'s wrong?')
-haha
