@@ -16,8 +16,15 @@ _also italic text_
 `aaaaa`
 *aaa **bbb** ccc ddd*
 ![](images/356.jpg)
-[//]:# (哈哈我是注释，不会在浏览器中显示。)
-[//]:#(![GitHub Logo](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png))
+
+a
+
+[^_^]:
+b
+
+c
+
+![GitHub Logo](https://www.baidu.com/img/PCtm_d9c8750bed0b3c7d089fa7d55720d6cf.png)
 
 As Grace Hopper said:
 > I’ve always been more interested
